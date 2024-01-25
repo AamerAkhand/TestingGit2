@@ -6,7 +6,10 @@
 # In[4]:
 
 #hello
+<<<<<<< HEAD
 
+=======
+>>>>>>> 23be437a5ec8fbb64f52fc4b5960f7f09b215093
 # Execute this code block to import the NumPy library
 import numpy as np
 
